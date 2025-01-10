@@ -3,6 +3,12 @@
 
 RAG Chatbot é um projeto desenvolvido utilizando Streamlit, LangChain e OpenAI para criar um chatbot capaz de processar documentos carregados pelo usuário, extrair informações relevantes e responder perguntas de forma interativa.
 
+
+
+https://github.com/user-attachments/assets/0c23c712-b6c5-4ea1-b9ce-a5c1b159c029
+
+
+
 ## Funcionalidades
 
 - **Upload de Arquivos:** Suporta upload de arquivos PDF e DOCX para análise.
